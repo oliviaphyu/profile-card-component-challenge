@@ -39,6 +39,7 @@ body{
     background-color: white;
     padding-top: 5.5rem;
     border-radius: 1rem;
+    box-shadow: 2px 2px 20px 1px rgba(0, 0, 0, 0.15);
 }
 
 .container .card-img{
